@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    border: 2px solid orange;
+}
+
+h2 {
+    border: inherit;
+}
+
+ul {
+    color: brown;
+}
